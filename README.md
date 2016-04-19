@@ -1,11 +1,14 @@
 # C
 Recent school projects written in C
 
-usfls.c
+### usfls.c
+
 Similar program to linux ls, listing the files in a directory.
 
-usfsh.c
+### usfsh.c
+
 Similar program to linux shell.
 
-usfsort.c
+### usfsort.c
+
 Taking strings from user, sort the strings, and print the sorted strings or write to file.
